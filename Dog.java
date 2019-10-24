@@ -1,4 +1,4 @@
-package ru.mirea.Lab1;
+package ru.mirea.lab1;
 
 public class Dog {
     private String name;
@@ -43,4 +43,3 @@ public class Dog {
         System.out.println(this.name + "'s age in human years is " + this.age * 7 + " years");
     }
 }
-

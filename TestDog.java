@@ -1,9 +1,6 @@
-package ru.mirea.Lab1;
-
+package ru.mirea.lab1;
+import java.lang.*;
 public class TestDog {
-    public TestDog() {
-    }
-
     public static void main(String[] args) {
         Dog d1 = new Dog("Mike", 2);
         Dog d2 = new Dog("Helen", 7);

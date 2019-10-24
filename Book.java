@@ -1,4 +1,4 @@
-package ru.mirea.Lab1;
+package ru.mirea.lab1;
 
 public class Book {
     private String name;

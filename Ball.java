@@ -1,5 +1,5 @@
-package ru.mirea.Lab1;
-import java.lang.*;
+package ru.mirea.lab1;
+
 public class Ball {
     private double diameter;
     private String type;
@@ -39,4 +39,5 @@ public class Ball {
     public void Ball() {
         System.out.println("A ball with a diameter of " + diameter + " is a " + type + " ball");
     }
+
 }

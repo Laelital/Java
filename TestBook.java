@@ -1,5 +1,5 @@
-package ru.mirea.Lab1;
-
+package ru.mirea.lab1;
+import java.lang.*;
 public class TestBook {
     public static void main(String[] args) {
         Book d1 = new Book("About love and demons ", 200);
